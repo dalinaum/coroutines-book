@@ -2,5 +2,5 @@ theme: jekyll-theme-cayman
 lang: ko-KR
 timezone: Asia/Seoul
 
-title: 코틀린 코루틴 예제
+title: 코루틴 책 예제 코드
 repository: dalinaum/coroutines-book
