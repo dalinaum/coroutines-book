@@ -3,4 +3,4 @@ lang: ko-KR
 timezone: Asia/Seoul
 
 title: 코틀린 코루틴 예제
-repository: dalinaum/coroutines-example
+repository: dalinaum/coroutines-book
